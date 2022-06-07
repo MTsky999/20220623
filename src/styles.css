@@ -1,3 +1,7 @@
 body {
   overflow: hidden;
 }
+
+#draw-area {
+  background-color: blueviolet;
+}

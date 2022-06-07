@@ -41,4 +41,5 @@ function draw(x, y) {
   context.lineWidth = 5;
   context.lineTo(x, y);
   context.stroke();
+  context.strokeStyle = "#28285A";
 }
